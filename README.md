@@ -1,11 +1,15 @@
 https://forkify-study-project-by-tomochka91.netlify.app/
 
-# A study project based on the MVC architectural pattern.
+### A study project based on the MVC architectural pattern.
 
 HTML, SCSS, JS, Parcel.
 
-## Install, Build, and Run
+###
 
+```
 npm install
+
 npm run build
+
 npm run start
+```
